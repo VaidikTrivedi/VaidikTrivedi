@@ -4,7 +4,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/VaidikTrivedi?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/VaidikTrivedi5)
 <!-- https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr) -->
 
-## I'm an IT Engineer, Python Developer and Junior Data Analyst !!
+## I'm a Freelancer, Data Analyst and Software Developer !!
 
 - 👨‍💻 I have completed Bachelor's of Engineering in Information and Technology.
 - 🎓 I have done Post Graduation in IT Business Analysis.
