@@ -4,12 +4,12 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/VaidikTrivedi?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/VaidikTrivedi5)
 <!-- https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr) -->
 
-## I'm a Freelancer, Data Analyst and Software Developer !!
+## I'm a Freelancer, Data Analyst and Software Engineer !!
 
 - 👨‍💻 I have completed Bachelor's of Engineering in Information and Technology.
 - 🎓 I have done Post Graduation in IT Business Analysis.
 - 🌱 I’m currently imporving myself as Data Analyst by learning different algorithms, tools and techniques 🤯
-- 🥅 2021 Goal: Learn more about Data Science and implement it in real-life.
+- 🥅 2023 Goal: Learn about cloud architect and implementation.
 - ⚡ Fun fact: I love to code useless things 😜
 
 ### Spotify Playing 🎧
