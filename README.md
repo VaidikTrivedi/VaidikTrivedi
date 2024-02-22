@@ -6,10 +6,10 @@
 
 ## I'm a Freelancer, Data Analyst and Software Engineer !!
 
-- 👨‍💻 I have completed Bachelor's of Engineering in Information and Technology.
-- 🎓 I have done Post Graduation in IT Business Analysis.
-- 🌱 I’m currently imporving myself as Data Analyst by learning different algorithms, tools and techniques 🤯
-- 🥅 2023 Goal: Learn about cloud architect and implementation.
+- 👨‍💻 I have completed a Bachelor of Engineering in Information and Technology.
+- 🎓 I have done post-graduation in IT Business Analysis.
+- 🌱 I’m currently improving myself as a Data Analyst by learning different algorithms, tools, and techniques 🤯
+- 🥅 2024 Goal: Learn about cloud architecture and implementation.
 - ⚡ Fun fact: I love to code useless things 😜
 
 ### Spotify Playing 🎧
