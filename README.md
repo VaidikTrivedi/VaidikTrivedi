@@ -9,7 +9,7 @@
 - 👨‍💻 I have completed a Bachelor of Engineering in Information and Technology.
 - 🎓 I have done post-graduation in IT Business Analysis.
 - 🌱 I’m currently improving myself as a Data Analyst by learning different algorithms, tools, and techniques 🤯
-- 🥅 2024 Goal: Learn about cloud architecture and implementation.
+- 🥅 2025 Goal: Learn about cloud architecture and implementation.
 - ⚡ Fun fact: I love to code useless things 😜
 
 ### Spotify Playing 🎧
